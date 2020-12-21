@@ -16,7 +16,7 @@
     
     * If you saw the image below, elasticsearch is up.
 
-       ![Elasticsearch](../Dokcer-ELK/img/elasticsearch.png) 
+       ![Elasticsearch](../Dokcer-ELK/util/images/elasticsearch.png) 
   
 * Step 3:
 
@@ -26,4 +26,4 @@
     
     * If you saw the image below, elasticsearch is up.
 
-       ![Kibana](../Dokcer-ELK/img/kibana.png)     
+       ![Kibana](../Dokcer-ELK/util/images/kibana.png)     
