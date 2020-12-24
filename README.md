@@ -16,6 +16,6 @@
   
 * Step 3:
 
-    * Visit the link
+    * Visit the links
 
        [Kibana](http://localhost:5601/app/kibana)
